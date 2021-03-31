@@ -25,7 +25,7 @@ Hi, I'm Sam Dugdale. I'm a front-end web developer based in Leeds, UK. I am deve
 I have a BSc in **Computer Science** from **Leeds Beckett University** and a real passion for software development.  
 I'm always improving my knowledge of **HTML**, **CSS** and **JavaScript** with an aim to build responsive and accessible sites.
 
-### FreeCodeCamp
+### The Coders Guild
 I'm currently doing **The Coders Guild** JAMStack Web and App Development Course. Check out The Coders Guild <a href="https://thecodersguild.org.uk/" target="_blank">here</a>.
 
 ### FreeCodeCamp
